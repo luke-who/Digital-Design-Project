@@ -1,5 +1,4 @@
 # Digital-Design-Project
-Digital Design second year group project
 
 ## This is the code for building a Peak Detecor. It's noteworthy that the Data generator was given and ready to use. 
 As can be seen in Fig 4.1, There are tow main sections for this project, they're both designed and programmed using VHDL in Modesim and Vivado for simulation, namely Command Processor & Data Processor
